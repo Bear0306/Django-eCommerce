@@ -1,7 +1,4 @@
-# eCommerce
-
-[![eCommerce Logo](https://cfe2-static.s3-us-west-2.amazonaws.com/media/courses/ecommerce/images/ecommerce_coding_for_entrepreneurs.jpg)
-](https://www.codingforentrepreneurs.com/courses/ecommerce/)
+# Django-eCommerce
 
 This course will teach you step-by-step to build a eCommerce site from scratch. We'll be using open-source software to create each aspect of a fully functioning eCommerce business.
 
