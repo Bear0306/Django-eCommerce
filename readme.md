@@ -1,8 +1,6 @@
-# Django-eCommerce
+# Django eCommerce
 
 This course will teach you step-by-step to build a eCommerce site from scratch. We'll be using open-source software to create each aspect of a fully functioning eCommerce business.
-
-Full Course is here: [https://www.joincfe.com/courses/ecommerce/](https://www.joincfe.com/courses/ecommerce/)
 
 Below you'll find the related lecture code to any given section and lesson. Enjoy!
 
